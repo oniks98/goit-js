@@ -7,7 +7,7 @@ import SortCss from 'postcss-sort-media-queries';
 export default defineConfig(({ command }) => {
   return {
     // Налаштування базового шляху для GitHub Pages
-    base: '/goit-js-hw-12/',
+    base: '/goit-js/',
 
     // Налаштування глобальної змінної залежно від режиму
     define: {
